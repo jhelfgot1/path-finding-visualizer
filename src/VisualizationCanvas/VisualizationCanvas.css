@@ -1,0 +1,10 @@
+.VisCanvasContainer {
+  position: absolute;
+
+  margin: 0 auto;
+}
+
+.VisCanvasContainer canvas {
+  margin: 0 auto;
+  position: absolute;
+}
